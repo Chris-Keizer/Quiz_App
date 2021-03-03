@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Helper</string>
+    <string name="btnStart">Start Quiz</string>
+    <string name="txtInputName">Enter Name</string>
+    <string name="txtUser">User Name</string>
+    <string name="txtDefinition">Definition</string>
+    <string name="btnAnswer1">Answer 1</string>
+    <string name="btnAnswer2">Answer 2</string>
+    <string name="btnAnswer3">Answer 3</string>
+    <string name="btnAnswer4">Answer 4</string>
+    <string name="imgUserIcon">User Icon</string>
+    <string name="btnRetry">Retry</string>
+    <string name="txtFinalMessage">FinalMessage</string>
+    <string name="btnSubmit">Submit</string>
+</resources>

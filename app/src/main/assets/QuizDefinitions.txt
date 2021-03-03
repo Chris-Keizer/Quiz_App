@@ -1,0 +1,10 @@
+Algorithm : Set of instructions or rules designed to solve a definite problem.
+Boolean : Expression used for creating statements that are either TRUE or FALSE.
+Objects : Combination of related variables, constants and other data structures which can be selected and manipulated together.
+Class : Refers to a set of related objects with common properties.
+Constants : Term used to describe a value that does not change throughout the program.
+Data Types : Classification of a particular type of data.
+Array : Lists or groups of similar types of data values that are grouped.
+Declaration : A statement that describes a variable, function or any other identifier.
+Exception : A special, unexpected condition encountered during the execution of a program.
+Loop : A sequence of instructions that repeat the same process over and over until a condition is met.
